@@ -15,7 +15,7 @@ public class TestPuzzle {
         
         System.out.println(puzzle.generatePassword());
 
-        // Test getNewPasswordSet(): the number you pass = how many passwords you get
+        
         System.out.println(puzzle.getNewPasswordSet(5));
     }
 }
